@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BrowserNativePrint/static/css/main.9aa4e6d0.chunk.css",
+    "main.js": "/BrowserNativePrint/static/js/main.86d7b415.chunk.js",
+    "main.js.map": "/BrowserNativePrint/static/js/main.86d7b415.chunk.js.map",
+    "runtime-main.js": "/BrowserNativePrint/static/js/runtime-main.faa23516.js",
+    "runtime-main.js.map": "/BrowserNativePrint/static/js/runtime-main.faa23516.js.map",
+    "static/js/2.f5b83d2c.chunk.js": "/BrowserNativePrint/static/js/2.f5b83d2c.chunk.js",
+    "static/js/2.f5b83d2c.chunk.js.map": "/BrowserNativePrint/static/js/2.f5b83d2c.chunk.js.map",
+    "index.html": "/BrowserNativePrint/index.html",
+    "precache-manifest.d48843c9e58d2c323a50601bd0923448.js": "/BrowserNativePrint/precache-manifest.d48843c9e58d2c323a50601bd0923448.js",
+    "service-worker.js": "/BrowserNativePrint/service-worker.js",
+    "static/css/main.9aa4e6d0.chunk.css.map": "/BrowserNativePrint/static/css/main.9aa4e6d0.chunk.css.map",
+    "static/media/logo512.png": "/BrowserNativePrint/static/media/logo512.260d5758.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa23516.js",
+    "static/js/2.f5b83d2c.chunk.js",
+    "static/css/main.9aa4e6d0.chunk.css",
+    "static/js/main.86d7b415.chunk.js"
+  ]
+}
